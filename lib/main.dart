@@ -8,6 +8,7 @@ final colorScheme = ColorScheme.fromSeed(
   seedColor: seedColor,
   brightness: Brightness.dark,
 );
+const baseUrl = 'flutter-prep-76121-default-rtdb.firebaseio.com';
 
 void main() {
   runApp(const App());
